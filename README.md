@@ -1,6 +1,6 @@
 # websocket-client
 
-> A Websocket client tool
+> A Websocket client tool, powered by Electron
 
 ![](http://s.z4none.me/images/20200107230513.png)
 
@@ -14,6 +14,7 @@
 ## Todo
 
 * Binary data support
+* Configuration import / export
 * I18n
 
 #### Build Setup
@@ -27,7 +28,6 @@ npm run dev
 
 # build electron application for production
 npm run build
-
 ```
 
 ---
