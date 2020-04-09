@@ -1,23 +1,23 @@
 # websocket-client
 
-English | [中文](https://github.com/z4none/websocket-client/blob/master/README_CN.md)
+[English](https://github.com/z4none/websocket-client/) | 中文
 
-> A Websocket client tool, powered by Electron
+> 一个 Websocket 客户端工具，基于 Electron 实现
 
 ![](http://s.z4none.me/images/20200107230513.png)
 
-## Features
+## 特性
 
-* Electron app
-* Connection management
-* JSON viewer
-* Template
+* Electron 桌面应用
+* 连接管理
+* JSON 数据查看
+* 消息模板
 
 ## Todo
 
-* Binary data support
-* Configuration import / export
-* I18n
+* 二进制数据
+* 配置导入导出
+* 国际化
 
 #### Build Setup
 
