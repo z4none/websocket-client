@@ -56,7 +56,7 @@
     "ant-design-vue": "^1.4.10",
     "axios": "^0.18.0",
     "lodash": "^4.17.15",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "uuid": "^3.3.3",
     "vue": "^2.5.16",
     "vue-autofocus-directive": "^1.0.4",
